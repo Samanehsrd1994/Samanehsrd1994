@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samanehsardari
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
 
 
 <!---

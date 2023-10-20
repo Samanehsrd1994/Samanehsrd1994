@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samanehsrd1994
+- 👋 Hi, I’m @Samanehsardari
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Data Science
 
